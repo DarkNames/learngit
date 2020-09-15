@@ -1,2 +1,2 @@
 clone commit;
-file1.text
+origin commit;
