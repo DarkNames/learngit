@@ -1,1 +1,2 @@
+clone commit;
 file1.text
