@@ -1,3 +1,4 @@
 clone commit;
 origin commit;
 clone add;
+git add stash status;
