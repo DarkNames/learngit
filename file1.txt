@@ -2,3 +2,5 @@ clone commit;
 origin commit;
 clone add;
 git add stash status;
+
+git modify file after on git stash ;
