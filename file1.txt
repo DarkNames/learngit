@@ -1,6 +1,9 @@
 clone commit;
 origin commit;
 clone add;
+<<<<<<< Updated upstream
 git add stash status;
+=======
+>>>>>>> Stashed changes
 
 git modify file after on git stash ;
