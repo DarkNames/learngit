@@ -1,4 +1,7 @@
 file1.text
-
-
 file1.txt commit
+clone commit;
+origin commit;
+clone add;
+git add stash status;
+
